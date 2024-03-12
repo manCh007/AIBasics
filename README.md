@@ -1,2 +1,1 @@
-# AIBasics
-Let's learn AI Together
+## AI Basics
