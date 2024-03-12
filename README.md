@@ -1,6 +1,4 @@
 # AI Basics
 
-## Vector Cosine Law:
-
-### Understanding the Vector Cosine Law
-The Vector Cosine Law is a fundamental principle in trigonometry that helps us understand the relationship between the sides of a triangle and its angles. It’s particularly useful when dealing with non-right triangles.
+## Spring AI
+Spring AI is an application framework designed for AI engineering, aiming to apply the Spring ecosystem’s design principles—such as portability and modular design—to the AI domain. It promotes the use of Plain Old Java Objects (POJOs) as the building blocks of an application within the AI domain
