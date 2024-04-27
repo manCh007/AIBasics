@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "langchain-basic"
+version = "0.1.0"
+description = "This is a demo application to test the Langchain Capabilities"
+authors = ["Manab Chatterjee <manab.formal@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+requests = "^2.31.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
