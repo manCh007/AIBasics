@@ -1,8 +1,5 @@
-class Test():
+from component.printcomp import PrintComp
 
-    def __init__(self, param1, param2):
-        self.param1=param1
-        self.param2=param2
+m = PrintComp("Dummy", "Dumbo")
 
-    def printParam(self):
-        print("",self.param1,"",self.param2)
+m.printParam()
