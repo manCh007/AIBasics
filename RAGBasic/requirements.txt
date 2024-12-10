@@ -3,3 +3,6 @@ langchain_community
 langchain_chroma
 tiktoken
 pypdf
+langchain-ollama
+langchain_experimental
+neo4j
